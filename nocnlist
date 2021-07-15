@@ -354,6 +354,8 @@ DOMAIN-SUFFIX,softfamous.com,PROXY
 DOMAIN-SUFFIX,spiegel.de,PROXY
 DOMAIN-SUFFIX,ssrcloud.org,PROXY
 DOMAIN-SUFFIX,startpage.com,PROXY
+DOMAIN-SUFFIX,store.steampower.com,PROXY
+DOMAIN-SUFFIX,api.steampower.com,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 DOMAIN-SUFFIX,steemit.com,PROXY
 DOMAIN-SUFFIX,steemitwallet.com,PROXY
@@ -431,6 +433,26 @@ DOMAIN-SUFFIX,zb.com,PROXY
 DOMAIN-SUFFIX,zello.com,PROXY
 DOMAIN-SUFFIX,zeronet.io,PROXY
 DOMAIN-SUFFIX,zoom.us,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
+DOMAIN-SUFFIX,zhaoze.art,PROXY
+DOMAIN-SUFFIX,2047.name,PROXY
+DOMAIN-SUFFIX,exhentai.org,PROXY
+DOMAIN-SUFFIX,e-hentai.org,PROXY
+DOMAIN-SUFFIX,nhentai.net,PROXY
+DOMAIN-SUFFIX,talaat.net,PROXY
+DOMAIN-SUFFIX,cospatio.com,PROXY
+DOMAIN-SUFFIX,mohu.rocks,PROXY
+DOMAIN-SUFFIX,mohu.rocks,PROXY
+DOMAIN-SUFFIX,2000w.xyz,PROXY
+DOMAIN-SUFFIX,winnie.cloud,PROXY
+DOMAIN-SUFFIX,raw.githubusercontent.com,PROXY
+DOMAIN-SUFFIX,incnjp.com,PROXY
+DOMAIN-SUFFIX,xiumulin8.com,PROXY
+DOMAIN-SUFFIX,asiansister.com,PROXY
+DOMAIN-SUFFIX,uniform.wingzero.tw,PROXY
+DOMAIN-SUFFIX,blog.shuziyimin.org,PROXY
+DOMAIN-SUFFIX,blog.v2ex.com,PROXY
+DOMAIN-SUFFIX,program-think.blogspot.com,PROXY
 
 DOMAIN,cc.tvbs.com.tw,PROXY
 DOMAIN,ocsp.int-x3.letsencrypt.org,PROXY
