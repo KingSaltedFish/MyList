@@ -453,6 +453,7 @@ DOMAIN-SUFFIX,uniform.wingzero.tw,PROXY
 DOMAIN-SUFFIX,blog.shuziyimin.org,PROXY
 DOMAIN-SUFFIX,blog.v2ex.com,PROXY
 DOMAIN-SUFFIX,program-think.blogspot.com,PROXY
+DOMAIN-SUFFIX,pincong.rocks,PROXY
 
 DOMAIN,cc.tvbs.com.tw,PROXY
 DOMAIN,ocsp.int-x3.letsencrypt.org,PROXY
