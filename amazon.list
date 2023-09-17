@@ -1,5 +1,6 @@
 # > Amazon
 USER-AGENT,amazon*,amaz
+DOMAIN-SUFFIX,amazon.com,amaz
 DOMAIN-SUFFIX,amazon.co.jp,amaz
 DOMAIN-SUFFIX,d3c33hcgiwev3.cloudfront.net,amaz
 DOMAIN-SUFFIX,payments-jp.amazon.com,amaz
