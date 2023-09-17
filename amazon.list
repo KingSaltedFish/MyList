@@ -1,0 +1,9 @@
+# > Amazon
+USER-AGENT,amazon*,Shopping
+DOMAIN-SUFFIX,amazon.co.jp,Shopping
+DOMAIN-SUFFIX,d3c33hcgiwev3.cloudfront.net,Shopping
+DOMAIN-SUFFIX,payments-jp.amazon.com,Shopping
+DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,Shopping
+DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com,Shopping
+DOMAIN-KEYWOR,amazon.com,Shopping
+DOMAIN-KEYWORD,-amazon-com,Streaming
