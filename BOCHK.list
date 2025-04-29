@@ -1,0 +1,8 @@
+# > HKBANK
+USER-AGENT,BOCHK*,BOCHK
+HOST-SUFFIX,*.bochk.com,BOCHK
+HOST-SUFFIX,mb.bochk.com,BOCHK
+HOST-SUFFIX,fio.bochk.com,BOCHK
+HOST-SUFFIX,mba.bochk.com,BOCHK
+HOST-SUFFIX,bochk01.etnet.com.hk,BOCHK
+HOST-SUFFIX,bochk02.etnet.com.hk,BOCHK
