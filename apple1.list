@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,icloud.com.cn,Apple
 DOMAIN-SUFFIX,icloud-content.com,Apple
 DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
+DOMAIN-SUFFIX,apple-relay.apple.com,Apple
+DOMAIN-SUFFIX,gspe1-ssl.apple.com,Apple
 DOMAIN-KEYWORD,apple.com.akadns.net,Apple
 DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
 IP-CIDR,17.0.0.0/8,Apple
